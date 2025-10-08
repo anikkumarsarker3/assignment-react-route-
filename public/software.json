@@ -1,0 +1,926 @@
+[
+    {
+        "image": "https://i.ibb.co.com/rKntXZ0w/EQl-BDj-i-400x400.jpg",
+        "title": "TaskMaster Pro",
+        "companyName": "Productivity Inc.",
+        "id": 1,
+        "description": "TaskMaster Pro is a comprehensive productivity application designed for professionals and students alike. It helps users manage tasks, set reminders, and track progress efficiently. The app includes features like priority tagging, collaborative task boards, customizable notifications, and cloud synchronization across multiple devices. With intuitive design and a user-friendly interface, it simplifies daily planning and long-term goal tracking. The app also provides detailed analytics on task completion rates, helping users identify productivity bottlenecks. TaskMaster Pro integrates seamlessly with calendar apps and email clients, ensuring no important task is missed. Security is a top priority, with end-to-end encryption for sensitive data. It offers offline functionality, allowing users to manage tasks even without an internet connection. Overall, TaskMaster Pro is designed to enhance time management, organization, and productivity, catering to individuals and teams striving for efficiency in their professional and personal lives.",
+        "size": 45,
+        "reviews": 1523,
+        "ratingAvg": 4.6,
+        "downloads": 500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 45
+            },
+            {
+                "name": "2 star",
+                "count": 60
+            },
+            {
+                "name": "3 star",
+                "count": 110
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 908
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/Z1xYJgkp/unnamed.png",
+        "title": "FitLife Tracker",
+        "companyName": "HealthTech Labs",
+        "id": 2,
+        "description": "FitLife Tracker is a fitness and wellness app designed to help users monitor physical activity, diet, and overall health. The app offers step counting, workout tracking, heart rate monitoring, calorie tracking, and personalized fitness plans. FitLife Tracker connects with wearable devices to provide accurate and real-time health insights. Users can set goals, join challenges, and receive motivational reminders to stay active. It also provides nutrition guidance and meal planning features to ensure a balanced diet. The app includes advanced analytics to monitor progress over time, including graphs and trend reports. Privacy is emphasized with strict data security measures. FitLife Tracker also has a social component, allowing users to connect with friends, share achievements, and participate in community challenges. Its user-friendly interface, combined with comprehensive health tracking, makes it an essential tool for anyone aiming to improve fitness and maintain a healthy lifestyle.",
+        "size": 55,
+        "reviews": 2103,
+        "ratingAvg": 4.7,
+        "downloads": 750000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 50
+            },
+            {
+                "name": "2 star",
+                "count": 80
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 530
+            },
+            {
+                "name": "5 star",
+                "count": 1323
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/bM2ct3zJ/channels4-profile.jpg",
+        "title": "Learnify",
+        "companyName": "EduTech Solutions",
+        "id": 3,
+        "description": "Learnify is an educational platform offering a wide range of online courses, tutorials, and interactive learning experiences for students, professionals, and lifelong learners. The app supports multiple learning styles with video lectures, quizzes, exercises, and downloadable resources. Learnify covers subjects ranging from computer science, mathematics, language learning, business, and personal development. Users can track progress, earn certificates, and access a community of learners for collaboration and discussion. Advanced analytics help learners identify strengths and weaknesses, enabling personalized study paths. Learnify supports offline mode, allowing users to download courses and learn without internet access. With regular updates, new courses are continuously added, keeping content relevant and engaging. The app integrates with calendars and reminders to optimize study schedules. Designed with accessibility in mind, Learnify provides text-to-speech, adjustable fonts, and visual aids for a seamless learning experience across devices.",
+        "size": 70,
+        "reviews": 1840,
+        "ratingAvg": 4.5,
+        "downloads": 600000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30
+            },
+            {
+                "name": "2 star",
+                "count": 50
+            },
+            {
+                "name": "3 star",
+                "count": 200
+            },
+            {
+                "name": "4 star",
+                "count": 600
+            },
+            {
+                "name": "5 star",
+                "count": 960
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/bM2ct3zJ/channels4-profile.jpghttps://i.ibb.co.com/NdKk7gbL/unnamed.webp",
+        "title": "MoneyWise",
+        "companyName": "FinanceApps Co.",
+        "id": 4,
+        "description": "MoneyWise is a personal finance management app designed to help users track income, expenses, and investments effectively. The app provides tools for budgeting, bill reminders, goal setting, and real-time financial insights. Users can categorize transactions, generate reports, and monitor spending patterns over time. MoneyWise integrates with multiple bank accounts and credit cards, offering a consolidated view of financial health. The app uses encryption to protect sensitive financial data. It also provides investment tips, savings recommendations, and credit score monitoring to promote financial literacy. Interactive charts and notifications help users stay on top of their financial goals. MoneyWise offers personalized advice based on spending habits, encouraging smarter financial decisions. Its user-friendly interface, combined with powerful analytics, ensures users gain control over their finances with minimal effort. It is suitable for students, professionals, and families looking to improve financial planning.",
+        "size": 50,
+        "reviews": 1320,
+        "ratingAvg": 4.4,
+        "downloads": 400000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 25
+            },
+            {
+                "name": "2 star",
+                "count": 60
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 685
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/0p8WzNfx/unnamed.webp",
+        "title": "TravelBuddy",
+        "companyName": "Wanderlust Co.",
+        "id": 5,
+        "description": "TravelBuddy is a travel planning and itinerary app designed to make trips seamless and enjoyable. Users can discover destinations, book accommodations, plan activities, and share itineraries with friends and family. The app provides personalized recommendations based on preferences, including sightseeing, food, culture, and adventure activities. TravelBuddy includes offline maps, real-time weather updates, and travel alerts to ensure smooth journeys. Users can track expenses, manage bookings, and store important documents securely. Social features allow travelers to share experiences, reviews, and travel tips within the community. TravelBuddy also offers AI-powered suggestions for optimizing travel routes and minimizing travel time. With a focus on convenience and personalization, it is ideal for solo travelers, families, and groups seeking well-organized, enjoyable travel experiences. Regular updates add new destinations, local guides, and features, keeping the app current and relevant.",
+        "size": 80,
+        "reviews": 950,
+        "ratingAvg": 4.3,
+        "downloads": 300000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 45
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "5 star",
+                "count": 485
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/G3F021Ng/0d673d8c4dbeb675403756441d385e0cf96e6cca91d58f6dac6313180f3e98b0-200.webp",
+        "title": "PhotoEdit Master",
+        "companyName": "CreativeSoft",
+        "id": 6,
+        "description": "PhotoEdit Master is a professional photo editing app designed for both amateur photographers and professionals. The app offers advanced editing tools including layers, filters, color correction, and retouching options. Users can manipulate images using precision controls, apply effects, remove unwanted elements, and optimize photos for social media. PhotoEdit Master supports multiple file formats and high-resolution images. Tutorials and templates are included to help beginners start editing quickly. Cloud synchronization allows users to work seamlessly across multiple devices. The app emphasizes performance and speed, ensuring smooth editing even for large files. Privacy and security are prioritized, with all images stored securely. Users can also share directly to social media platforms or export to various formats for professional use. Regular updates introduce new features, ensuring the app evolves with current trends and editing technologies, making it a versatile solution for creative needs.",
+        "size": 120,
+        "reviews": 890,
+        "ratingAvg": 4.5,
+        "downloads": 450000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "5 star",
+                "count": 465
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/FLWhLpHD/relax-icon-vector-human-mind-collection-thin-line-outline-illustration-linear-symbol-use-web-mobile.webp",
+        "title": "MindRelax",
+        "companyName": "Wellbeing Apps",
+        "id": 7,
+        "description": "MindRelax is a meditation and mental wellness app designed to help users reduce stress, improve focus, and enhance overall well-being. The app offers guided meditations, breathing exercises, sleep stories, mindfulness practices, and daily wellness tips. MindRelax includes personalized recommendations based on user preferences and mental health goals. Analytics track progress, helping users understand improvements in stress levels, sleep quality, and mindfulness. Offline mode ensures accessibility anytime. The app emphasizes a calming user interface, soothing sounds, and a distraction-free environment to promote relaxation. MindRelax also provides community forums for sharing experiences and motivation. It integrates with wearable devices to track heart rate and relaxation patterns during exercises. Regular updates introduce new meditation sessions, sleep stories, and interactive content. Suitable for beginners and advanced practitioners alike, MindRelax aims to support mental health and self-care routines in daily life.",
+        "size": 65,
+        "reviews": 1100,
+        "ratingAvg": 4.6,
+        "downloads": 550000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 35
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 555
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/gL10vjV7/91b34471244ed2d4b385b34e02cee2b4.jpg",
+        "title": "RecipeHub",
+        "companyName": "CulinaryTech",
+        "id": 8,
+        "description": "RecipeHub is a comprehensive cooking app that helps users discover, create, and share recipes. The app provides step-by-step instructions, ingredient lists, and video tutorials for a wide range of cuisines. Users can save favorite recipes, create shopping lists, and plan weekly meals. RecipeHub also allows customization of recipes based on dietary preferences such as vegan, gluten-free, or low-carb. The app includes a community feature to share recipes, tips, and cooking experiences. Advanced search and filters help users find recipes quickly, and integration with smart kitchen devices streamlines the cooking process. RecipeHub tracks nutritional information, helping users make healthier choices. Regular updates introduce new recipes, seasonal suggestions, and cooking challenges. Its user-friendly interface and vibrant visuals make it enjoyable for both beginner and experienced cooks, fostering creativity in the kitchen while ensuring a smooth, interactive culinary experience.",
+        "size": 40,
+        "reviews": 940,
+        "ratingAvg": 4.5,
+        "downloads": 320000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 18
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "5 star",
+                "count": 517
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/DjpT4wB/icon-b1e19b40f0783543664d.png",
+        "title": "WeatherNow",
+        "companyName": "SkyTech Apps",
+        "id": 9,
+        "description": "WeatherNow is a real-time weather forecasting app providing accurate weather updates worldwide. Users can check hourly, daily, and weekly forecasts, including temperature, precipitation, wind speed, and humidity levels. The app offers severe weather alerts, radar maps, and live weather cameras for precise information. WeatherNow supports multiple locations and personalized notifications. Users can track historical weather patterns and plan events accordingly. The app features a clean, intuitive interface, making it easy to access vital weather data. Integration with widgets allows users to monitor conditions directly from their home screen. WeatherNow emphasizes accuracy through advanced meteorological algorithms and frequent updates. It is ideal for outdoor enthusiasts, travelers, and anyone who needs reliable weather information. Regular enhancements introduce new features, like storm trackers and interactive climate maps, ensuring users stay informed in any weather condition.",
+        "size": 25,
+        "reviews": 1250,
+        "ratingAvg": 4.4,
+        "downloads": 680000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 22
+            },
+            {
+                "name": "2 star",
+                "count": 40
+            },
+            {
+                "name": "3 star",
+                "count": 130
+            },
+            {
+                "name": "4 star",
+                "count": 450
+            },
+            {
+                "name": "5 star",
+                "count": 608
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/d4bZcntk/345-3456553-my-language-buddy-language-buddy.jpg",
+        "title": "LanguageBuddy",
+        "companyName": "LinguaTech",
+        "id": 10,
+        "description": "LanguageBuddy is a language learning app designed to help users master new languages efficiently. The app offers interactive lessons, speaking exercises, vocabulary drills, and grammar tutorials. Users can practice listening, reading, writing, and speaking skills, and track their progress through detailed analytics. LanguageBuddy supports multiple languages including Spanish, French, German, Mandarin, and more. It uses AI-powered feedback to correct pronunciation and improve fluency. Users can join language communities for peer learning, participate in challenges, and engage in cultural content for immersive learning. Offline mode ensures lessons are accessible anytime, and progress is synced across devices. LanguageBuddy also integrates with voice assistants for hands-free practice. Designed with gamification techniques, it motivates users to stay consistent, making language learning enjoyable and effective for beginners and advanced learners alike.",
+        "size": 60,
+        "reviews": 1180,
+        "ratingAvg": 4.6,
+        "downloads": 520000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 645
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/KzF9WDHm/unnamed.webp",
+        "title": "NoteMaster",
+        "companyName": "SmartNotes",
+        "id": 11,
+        "description": "NoteMaster is a powerful note-taking app designed for students, professionals, and creatives. It provides rich text formatting, voice notes, sketches, and attachment support for images, PDFs, and documents. Users can organize notes into notebooks, tag content, and search efficiently. NoteMaster includes cloud synchronization for seamless access across devices, offline access, and backup options. Collaboration features allow shared notes, commenting, and version tracking. Reminders, calendar integration, and task lists help users stay organized and productive. NoteMaster emphasizes security with password protection, encryption, and biometric authentication. The app offers templates for meeting notes, journals, and project planning. Regular updates improve usability, introduce new features, and optimize performance. Its intuitive interface and flexible organization tools make NoteMaster ideal for managing personal and professional knowledge, fostering creativity, and enhancing productivity for users of all levels.",
+        "size": 35,
+        "reviews": 1420,
+        "ratingAvg": 4.5,
+        "downloads": 400000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 12
+            },
+            {
+                "name": "2 star",
+                "count": 28
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "4 star",
+                "count": 420
+            },
+            {
+                "name": "5 star",
+                "count": 860
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/Hf4K8sLY/black-and-white-joysticks-game-zone-art-icon-vector.jpg",
+        "title": "GameZone",
+        "companyName": "FunPlay Studios",
+        "id": 12,
+        "description": "GameZone is a gaming hub offering a variety of casual and competitive games for users of all ages. The app features puzzles, strategy games, action games, and multiplayer options. Users can earn rewards, achievements, and rankings on leaderboards. GameZone supports cross-device play, social sharing, and in-game chat. Frequent updates introduce new games, levels, and challenges, keeping the platform engaging and dynamic. The app provides optimized performance for smooth gameplay and includes parental controls for safe gaming experiences. GameZone emphasizes community engagement, allowing users to join tournaments, collaborate in teams, and participate in events. With a user-friendly interface, personalized recommendations, and interactive features, GameZone offers endless entertainment, fostering creativity, problem-solving, and social connections within a safe digital environment.",
+        "size": 90,
+        "reviews": 1250,
+        "ratingAvg": 4.3,
+        "downloads": 750000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 25
+            },
+            {
+                "name": "2 star",
+                "count": 50
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 625
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/zV0wXS41/News-icon-icons-com-54984.png",
+        "title": "NewsDaily",
+        "companyName": "Global Media",
+        "id": 13,
+        "description": "NewsDaily is a comprehensive news app providing real-time updates, articles, and videos from around the world. Users can customize feeds based on interests such as politics, technology, sports, entertainment, and business. The app offers notifications for breaking news, offline reading, and multi-source verification for credibility. NewsDaily includes multimedia content like podcasts, live streams, and interactive graphics. Users can save articles, share news, and engage in discussions. Advanced AI algorithms curate personalized recommendations to keep users informed on relevant topics. The app emphasizes reliability, transparency, and accessibility, offering adjustable text sizes, dark mode, and multilingual support. Regular updates improve performance and introduce new features such as investigative reports, newsletters, and interactive polls, ensuring users stay connected with accurate and timely information in a user-friendly interface.",
+        "size": 50,
+        "reviews": 2100,
+        "ratingAvg": 4.5,
+        "downloads": 850000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 40
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "4 star",
+                "count": 700
+            },
+            {
+                "name": "5 star",
+                "count": 1190
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/WvGdNp1f/4725656.png",
+        "title": "SleepWell",
+        "companyName": "HealthTech Labs",
+        "id": 14,
+        "description": "SleepWell is a sleep tracking and improvement app designed to enhance sleep quality. It monitors sleep patterns, analyzes sleep stages, and provides insights for better rest. Users receive personalized tips, guided meditations, white noise, and bedtime reminders. SleepWell integrates with wearable devices to provide accurate data on heart rate, movements, and sleep cycles. The app includes sleep journals, goal setting, and progress tracking to help users identify factors affecting sleep quality. It emphasizes a calming interface and minimalistic design to encourage relaxation. Offline mode ensures usability without internet access. Regular updates include new guided meditations, sleep programs, and advanced analytics. SleepWell is ideal for anyone looking to improve sleep hygiene, reduce insomnia, and maintain a healthy lifestyle through better rest and recovery.",
+        "size": 40,
+        "reviews": 980,
+        "ratingAvg": 4.6,
+        "downloads": 400000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 350
+            },
+            {
+                "name": "5 star",
+                "count": 510
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/7dSrnvdJ/36a6a8135d6a39e048fb18134b67414aa729557b011ba9c09108a93e9701d5d3-200.webp",
+        "title": "WorkoutPal",
+        "companyName": "FitnessTech",
+        "id": 15,
+        "description": "WorkoutPal is a fitness training app designed to help users build strength, endurance, and flexibility. It provides personalized workout plans, video tutorials, progress tracking, and motivational reminders. Users can select programs for weight loss, muscle gain, or overall health. The app integrates with wearable devices to monitor heart rate and calories burned, ensuring efficient workouts. WorkoutPal includes community challenges, achievement tracking, and social sharing options. Offline mode ensures workouts can continue without internet access. The app emphasizes proper form with video guidance and tips to prevent injuries. Regular updates introduce new exercises, routines, and seasonal challenges. WorkoutPal is suitable for beginners and experienced athletes alike, offering a flexible, engaging, and safe fitness experience.",
+        "size": 65,
+        "reviews": 1020,
+        "ratingAvg": 4.7,
+        "downloads": 480000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 12
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 503
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/Lqmy6p4/2515972.png",
+        "title": "BudgetTracker",
+        "companyName": "FinApps Co.",
+        "id": 16,
+        "description": "BudgetTracker is a personal finance app designed to help users manage income, expenses, and savings goals. It provides real-time tracking, categorization of transactions, expense analysis, and budget planning tools. Users can set reminders for bills, track recurring payments, and generate reports for better financial decisions. The app integrates with bank accounts and credit cards for automatic updates. BudgetTracker emphasizes security with encrypted storage and password protection. Insights and visualizations help users identify spending habits, optimize budgets, and save effectively. Offline mode allows tracking without internet access, and cloud sync ensures accessibility across devices. Regular updates introduce new features like goal tracking, debt management, and investment tips, helping users take control of finances efficiently and effectively.",
+        "size": 30,
+        "reviews": 1100,
+        "ratingAvg": 4.5,
+        "downloads": 520000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 18
+            },
+            {
+                "name": "2 star",
+                "count": 35
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 557
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/twrjvpgS/unnamed.webp",
+        "title": "PhotoGallery Pro",
+        "companyName": "CreativeSoft",
+        "id": 17,
+        "description": "PhotoGallery Pro is an advanced photo management app allowing users to organize, edit, and share images seamlessly. It provides cloud backup, album creation, facial recognition, and tagging features. Users can edit photos using built-in filters, adjustments, and creative effects. The app supports high-resolution images, batch editing, and direct social media sharing. PhotoGallery Pro emphasizes security, offering password protection, encryption, and secure cloud storage. Offline access allows viewing and editing without internet connectivity. Regular updates bring new editing tools, templates, and enhanced AI features for better photo categorization and search. Designed for photographers, hobbyists, and everyday users, PhotoGallery Pro combines functionality, creativity, and ease-of-use in a comprehensive image management solution.",
+        "size": 80,
+        "reviews": 870,
+        "ratingAvg": 4.4,
+        "downloads": 450000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 70
+            },
+            {
+                "name": "4 star",
+                "count": 350
+            },
+            {
+                "name": "5 star",
+                "count": 410
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/kgRsvR2w/cropped-3c947edc-99e4-4e3f-9b7d-398cde8a75e0.webp",
+        "title": "MeditateNow",
+        "companyName": "Wellbeing Apps",
+        "id": 18,
+        "description": "MeditateNow is a mental wellness app offering guided meditation, breathing exercises, and mindfulness practices. It helps users reduce stress, improve focus, and sleep better. The app provides personalized meditation plans, progress tracking, and reminders for daily practice. MeditateNow integrates calming music, ambient sounds, and sleep stories to enhance relaxation. Offline mode ensures accessibility anytime. Community features allow users to share experiences, tips, and motivation. AI-powered suggestions provide customized practices based on user activity and goals. Regular updates introduce new meditations, challenges, and tools for mental well-being. Suitable for beginners and advanced users, MeditateNow promotes mental clarity, emotional balance, and overall health.",
+        "size": 50,
+        "reviews": 950,
+        "ratingAvg": 4.6,
+        "downloads": 420000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 12
+            },
+            {
+                "name": "2 star",
+                "count": 18
+            },
+            {
+                "name": "3 star",
+                "count": 70
+            },
+            {
+                "name": "4 star",
+                "count": 350
+            },
+            {
+                "name": "5 star",
+                "count": 500
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/gLqrd1ny/unnamed.webp",
+        "title": "DailyJournal",
+        "companyName": "SmartNotes",
+        "id": 19,
+        "description": "DailyJournal is a personal journaling app designed to help users document thoughts, ideas, and experiences. It offers rich text formatting, photo attachments, mood tracking, and reminders for daily entries. Users can organize journals with tags, folders, and search features. Offline mode allows writing anywhere, while cloud sync ensures accessibility across devices. DailyJournal emphasizes privacy with password protection and encryption. The app includes prompts and templates to inspire writing, and analytics provide insights into mood and activity trends. Regular updates add new features, customization options, and user-friendly enhancements. Ideal for students, professionals, and creatives, DailyJournal helps cultivate mindfulness, reflection, and consistent journaling habits.",
+        "size": 35,
+        "reviews": 870,
+        "ratingAvg": 4.5,
+        "downloads": 300000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 60
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "5 star",
+                "count": 480
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/Kp8m8rvy/pngtree-checklist-3d-icon-isolated-on-a-transparent-background-symbolizing-tasks-organization-png-im.png",
+        "title": "TaskOrganizer",
+        "companyName": "Productivity Inc.",
+        "id": 20,
+        "description": "TaskOrganizer is a task management app designed for professionals and teams. It offers project creation, task assignments, progress tracking, and deadlines. Users can collaborate, set priorities, and receive notifications to stay on top of projects. Integration with calendars and emails ensures smooth workflow. Offline mode allows task management without internet access. TaskOrganizer includes analytics and reports for productivity monitoring. Security is ensured through encryption and user authentication. Regular updates introduce new features like AI suggestions, templates, and enhanced collaboration tools. Suitable for individuals and organizations, TaskOrganizer enhances efficiency, accountability, and task completion.",
+        "size": 45,
+        "reviews": 940,
+        "ratingAvg": 4.6,
+        "downloads": 380000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 12
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 70
+            },
+            {
+                "name": "4 star",
+                "count": 350
+            },
+            {
+                "name": "5 star",
+                "count": 483
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/BVGLzDjk/unnamed.png",
+        "title": "ExpenseManager",
+        "companyName": "FinApps Co.",
+        "id": 21,
+        "description": "ExpenseManager is a finance app that helps users track income, expenses, and savings. It provides charts, reports, budget planning, and notifications for bill payments. Users can categorize spending, set financial goals, and monitor progress. Offline mode and cloud sync ensure accessibility and backup. Security is prioritized with encryption and authentication. Regular updates introduce new features like investment tracking, recurring expenses, and tax calculations. ExpenseManager is suitable for personal and family finance management, helping users stay financially organized and make informed decisions.",
+        "size": 40,
+        "reviews": 850,
+        "ratingAvg": 4.4,
+        "downloads": 350000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 60
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "5 star",
+                "count": 460
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/fzxxkmYn/8718650.png",
+        "title": "PhotoCollage",
+        "companyName": "CreativeSoft",
+        "id": 22,
+        "description": "PhotoCollage is a creative app for making collages, photo grids, and artwork. It provides templates, stickers, filters, and editing tools. Users can combine multiple images, adjust layouts, and add text. The app supports high-resolution exports and sharing to social media. Offline mode allows creation anywhere, and cloud sync ensures access across devices. Security is maintained with encrypted storage. Regular updates bring new templates, effects, and tools, making PhotoCollage ideal for casual users and creative professionals looking to craft visually appealing content efficiently.",
+        "size": 70,
+        "reviews": 900,
+        "ratingAvg": 4.5,
+        "downloads": 400000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 12
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 350
+            },
+            {
+                "name": "5 star",
+                "count": 438
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/WpznY2nY/stock-vector-mind-focus-icon-simple-element-from-yoga-collection-creative-mind-focus-icon-for-web-de.jpg",
+        "title": "MindFocus",
+        "companyName": "Wellbeing Apps",
+        "id": 23,
+        "description": "MindFocus is a productivity and focus app designed to enhance concentration, time management, and mindfulness. It offers Pomodoro timers, focus sessions, goal tracking, and task prioritization. Users can block distractions, track productivity, and receive analytics on work habits. Offline mode ensures uninterrupted focus sessions. The app includes calming sounds, notifications, and progress tracking. MindFocus emphasizes a simple, clean interface for minimal distractions. Regular updates introduce new features, challenges, and personalization options. Suitable for students, professionals, and creatives, MindFocus helps improve concentration, efficiency, and goal achievement in daily routines.",
+        "size": 35,
+        "reviews": 810,
+        "ratingAvg": 4.6,
+        "downloads": 360000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "3 star",
+                "count": 70
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "5 star",
+                "count": 415
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/C5TTDX4K/health-tracker-icon-line-design-260nw-2645956525.webp",
+        "title": "HealthTracker",
+        "companyName": "HealthTech Labs",
+        "id": 24,
+        "description": "HealthTracker is a comprehensive health monitoring app that tracks steps, calories, sleep, heart rate, and activity levels. Users can set fitness goals, track progress, and receive personalized insights. Integration with wearable devices allows accurate real-time tracking. Offline mode ensures functionality without internet. The app emphasizes user privacy and secure data storage. Regular updates provide new features like nutrition tracking, workout plans, and challenges. HealthTracker supports a healthy lifestyle by motivating users to stay active, improve fitness, and maintain overall wellness.",
+        "size": 60,
+        "reviews": 1200,
+        "ratingAvg": 4.5,
+        "downloads": 520000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 680
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/84fHTR5Q/unnamed.png",
+        "title": "TravelMate",
+        "companyName": "Wanderlust Co.",
+        "id": 25,
+        "description": "TravelMate is a travel assistant app that helps users plan trips, book hotels, and discover destinations. It offers itinerary planning, personalized recommendations, maps, offline guides, and travel alerts. Users can track expenses and share experiences. TravelMate emphasizes convenience, safety, and exploration, providing a seamless travel experience. Regular updates include new destinations, travel tips, and improved functionality. Ideal for solo travelers, families, and groups, TravelMate makes traveling organized, enjoyable, and stress-free.",
+        "size": 75,
+        "reviews": 950,
+        "ratingAvg": 4.4,
+        "downloads": 430000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 15
+            },
+            {
+                "name": "2 star",
+                "count": 25
+            },
+            {
+                "name": "3 star",
+                "count": 90
+            },
+            {
+                "name": "4 star",
+                "count": 350
+            },
+            {
+                "name": "5 star",
+                "count": 470
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/gM2vZmkk/unnamed.webp",
+        "title": "EduLearn",
+        "companyName": "EduTech Solutions",
+        "id": 26,
+        "description": "EduLearn is an educational platform offering interactive courses, quizzes, and tutorials for learners of all ages. Users can track progress, earn certificates, and access study materials offline. Personalized learning paths and AI-based recommendations help users learn efficiently. EduLearn emphasizes accessibility, offering features like text-to-speech, adjustable fonts, and multiple language support. Regular updates add new courses, challenges, and resources. EduLearn supports collaboration, discussions, and knowledge sharing among students. It provides a structured, engaging, and flexible learning environment, making education accessible and effective for everyone.",
+        "size": 70,
+        "reviews": 1100,
+        "ratingAvg": 4.5,
+        "downloads": 480000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 12
+            },
+            {
+                "name": "2 star",
+                "count": 20
+            },
+            {
+                "name": "3 star",
+                "count": 80
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 588
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/67wLm1RY/check-this-amazing-of-notebook-icon-of-journal-vector.jpg",
+        "title": "JournalPro",
+        "companyName": "SmartNotes",
+        "id": 27,
+        "description": "JournalPro is a digital journaling app that allows users to document daily activities, thoughts, and reflections. It supports text, images, audio notes, mood tracking, and reminders. Cloud sync ensures accessibility across devices, while offline mode allows journaling anytime. JournalPro emphasizes privacy with encryption and password protection. Users can organize entries, add tags, and view analytics of mood and habits over time. Regular updates improve usability, introduce new templates, and add creative features for a rich journaling experience. Ideal for personal reflection, goal tracking, and mindfulness practice, JournalPro supports consistent journaling habits and mental wellness.",
+        "size": 40,
+        "reviews": 850,
+        "ratingAvg": 4.6,
+        "downloads": 370000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 10
+            },
+            {
+                "name": "2 star",
+                "count": 15
+            },
+            {
+                "name": "3 star",
+                "count": 70
+            },
+            {
+                "name": "4 star",
+                "count": 300
+            },
+            {
+                "name": "5 star",
+                "count": 455
+            }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co.com/PsSzfJj5/unnamed.webp",
+        "title": "GameArena",
+        "companyName": "FunPlay Studios",
+        "id": 28,
+        "description": "GameArena is a gaming app offering a wide variety of casual and competitive games. Users can play solo or join multiplayer matches, earn rewards, unlock achievements, and compete in tournaments. The app supports social sharing, team collaboration, and interactive leaderboards. GameArena provides optimized performance for smooth gameplay and includes parental controls for safe play. Regular updates introduce new games, challenges, and events. With a user-friendly interface and engaging content, GameArena offers entertainment, skill-building, and social interaction for gamers of all ages.",
+        "size": 95,
+        "reviews": 980,
+        "ratingAvg": 4.3,
+        "downloads": 500000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 18
+            },
+            {
+                "name": "2 star",
+                "count": 30
+            },
+            {
+                "name": "3 star",
+                "count": 100
+            },
+            {
+                "name": "4 star",
+                "count": 350
+            },
+            {
+                "name": "5 star",
+                "count": 482
+            }
+        ]
+    }
+]
