@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { useParams } from 'react-router';
+import { useNavigate, useNavigation, useParams } from 'react-router';
 import Dowlmg from '../assets/icon-downloads.png'
 import RatingIcon from '../assets/icon-ratings.png'
 import RivewIcon from '../assets/icon-review.png'
@@ -7,13 +7,28 @@ import { BarChart, Bar, XAxis, YAxis, Tooltip, CartesianGrid } from 'recharts';
 import AppError from './AppError';
 import { ToastContainer, toast } from 'react-toastify';
 import LoadingPage from './LoadingPage';
+import { addSoftware, getSoftware } from '../utility/readlocalstore';
 
 const CardDetails = () => {
+    const { id } = useParams();
+
     const handleInstallButton = () => {
         setFixed(true);
         toast('Installed app');
-
+        addSoftware(id)
     }
+
+    useEffect(() => {
+        const array = JSON.parse(localStorage.getItem('softList'));
+        if (array.includes(String(id)) || array.includes(Number(id))) {
+            setFixed(true);
+        } else {
+            setFixed(false);
+        }
+    }, [id]);
+
+
+
     const [fixed, setFixed] = useState(false);
     const [softwareData, setSoftwareData] = useState([]);
     useEffect(() => {
@@ -21,20 +36,18 @@ const CardDetails = () => {
             .then(res => res.json())
             .then(data => setSoftwareData(data))
     }, [])
-    // console.log(softwareData)
-    const { id } = useParams();
-    // console.log(id)
+
     const singleItem = softwareData.find(item => item.id === Number(id));
-    console.log(singleItem)
+
     return (
         <>
             <div>
-                {!softwareData.length ? (
+                {!softwareData.length ? (<div>
                     <LoadingPage></LoadingPage>
+                </div>
                 ) : singleItem ? (
                     <div className='bg-base-200 max-w-7xl mx-auto p-4'>
                         <div className='flex gap-7'>
-
                             <div className='flex flex-col md:flex-row justify-between items-center gap-16'>
                                 <figure>
                                     <img className='w-full h-64' src={singleItem.image} alt="" />
@@ -69,22 +82,6 @@ const CardDetails = () => {
                             </div>
                         </div>
                         <div className='py-10'>
-                            {/* <BarChart width={600} height={300} data={singleItem.ratings}>
-                                <XAxis dataKey="count" stroke="#8884d8" />
-                                <YAxis dataKey="name" stroke="#8884d8" />
-                                <Tooltip />
-                                <CartesianGrid stroke="#ccc" strokeDasharray="5 5" />
-                                <Bar dataKey="count" fill="#8884d8" barSize={30} />
-                            </BarChart> */}
-
-
-                            {/* <BarChart layout="vertical" width={600} height={300} data={singleItem.ratings}>
-                                <XAxis dataKey="name" stroke="#8884d8" />
-                                <YAxis />
-                                <Tooltip />
-                                <CartesianGrid stroke="#ccc" strokeDasharray="5 5" />
-                                <Bar dataKey="count" fill="#8884d8" barSize={30} />
-                            </BarChart> */}
                             <BarChart layout="vertical" width={600} height={300} data={[...singleItem.ratings].reverse()}>
                                 <CartesianGrid stroke="#ccc" strokeDasharray="5 5" />
                                 <XAxis type="number" dataKey="count" stroke="#8884d8" />
