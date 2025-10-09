@@ -20,7 +20,7 @@ const InstallCard = ({ data, setItemData, setInstallApp }) => {
 
     return (
         <div>
-            <div className='flex items-center justify-between my-3 bg-base-100 p-2'>
+            <div className='flex flex-col md:flex-row items-center justify-between my-3 bg-base-100 p-2'>
                 <div className='flex items-center gap-3.5'>
                     <img className='w-20' src={dataValue.image} alt="Niks" />
                     <div>
@@ -39,7 +39,7 @@ const InstallCard = ({ data, setItemData, setInstallApp }) => {
                         </div>
                     </div>
                 </div>
-                <Link onClick={() => removeLocalStorage(dataValue.id)} className='btn btn-success text-white'>Uninstall</Link>
+                <Link onClick={() => removeLocalStorage(dataValue.id)} className='btn btn-success text-white mt-5 md:mt-0'>Uninstall</Link>
             </div>
 
             <ToastContainer
