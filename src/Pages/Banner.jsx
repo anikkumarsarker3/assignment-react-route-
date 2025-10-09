@@ -23,8 +23,8 @@ const Banner = () => {
                 </figure>
             </div>
             <div className="bg-[linear-gradient(125.07deg,#632EE3,#9F62F2_100%)] py-10">
-                <h1 className='text-white text-5xl text-center font-semibold'>Trusted by Millions, Built for You</h1>
-                <div className='grid grid-cols-3 text-center mt-7 '>
+                <h1 className='text-white text-5xl text-center font-semibold px-5 md:px-0'>Trusted by Millions, Built for You</h1>
+                <div className='grid grid-cols-1 md:grid-cols-3 text-center mt-7 '>
                     <div className='text-white'>
                         <p>Total Downloads</p>
                         <h1 className='text-6xl'>29.6M</h1>

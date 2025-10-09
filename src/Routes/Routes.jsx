@@ -10,6 +10,7 @@ import Installation from '../Pages/Installation';
 
 
 
+
 export const router = createBrowserRouter([
     {
         path: "",
@@ -20,22 +21,24 @@ export const router = createBrowserRouter([
             {
                 path: '',
                 loader: () => fetch('/software.json'),
+
                 hydrateFallbackElement: <LoadingPage></LoadingPage>,
                 Component: Home
             },
             {
                 path: '/apps',
                 loader: () => fetch('/software.json'),
+
                 hydrateFallbackElement: <LoadingPage></LoadingPage>,
                 Component: Apps
             },
             {
-                path: '/installation',
+                path: 'installation',
                 hydrateFallbackElement: <LoadingPage></LoadingPage>,
                 Component: Installation
             },
             {
-                path: '/card-details/:id',
+                path: 'card-details/:id',
                 Component: CardDetails,
             }
         ]
