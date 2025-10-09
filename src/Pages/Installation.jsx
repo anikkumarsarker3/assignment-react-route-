@@ -1,12 +1,11 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router';
 import InstallCard from './InstallCard';
-import { getSoftware, removeSoftware } from '../utility/readlocalstore';
+import { getSoftware } from '../utility/readlocalstore';
 import LoadingPage from './LoadingPage';
 import AppError from './AppError';
-import DownIcon from '../assets/icon-downloads.png'
-import RatIcon from '../assets/icon-ratings.png'
-import { ToastContainer, toast } from 'react-toastify';
+
+
 
 const Installation = () => {
 
