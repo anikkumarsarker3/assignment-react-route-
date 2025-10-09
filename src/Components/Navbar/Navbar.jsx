@@ -1,7 +1,8 @@
 import React from 'react';
-import { Link } from 'react-router';
+import { Link, NavLink } from 'react-router';
 import gitIcon from '../../assets/giticon.png'
 import logo from '../../assets/logo.png'
+import '../CSS/Ajaira.css'
 
 const Navbar = () => {
     return (
@@ -14,18 +15,18 @@ const Navbar = () => {
                     <ul
                         tabIndex={0}
                         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-                        <li><Link to='/'>Home</Link></li>
-                        <li><Link to='/apps'>Apps</Link></li>
-                        <li><Link to='/installation'>Installation</Link></li>
+                        <li><NavLink to='/'>Home</NavLink></li>
+                        <li><NavLink to='/apps'>Apps</NavLink></li>
+                        <li><NavLink to='/installation'>Installation</NavLink></li>
                     </ul>
                 </div>
                 <Link to='/' className="text-xl flex items-center font-semibold gap-1.5"><img className='w-10 h-10' src={logo} alt="" /> HERO.IO</Link>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
-                    <li><Link to='/'>Home</Link></li>
-                    <li><Link to='/apps'>Apps</Link></li>
-                    <li><Link to='/installation'>Installation</Link></li>
+                    <li><NavLink to='/'>Home</NavLink></li>
+                    <li><NavLink to='/apps'>Apps</NavLink></li>
+                    <li><NavLink to='/installation'>Installation</NavLink></li>
                 </ul>
             </div>
             <div className="navbar-end">

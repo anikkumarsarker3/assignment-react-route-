@@ -11,10 +11,10 @@ const Apps = () => {
     useEffect(() => {
         setSoftwareData(Data);
     }, [Data])
-    // console.log(softwareData)
     const handleChange = (e) => {
-        console.log(e.target.value)
-        const filtered = Data.filter(data => data.title.toLowerCase().includes(e.target.value.toLowerCase()));
+        const str = e.target.value;
+        let trimmedStr = str.trim();
+        const filtered = Data.filter(data => data.title.toLowerCase().includes(trimmedStr.toLowerCase()));
         setSoftwareData(filtered)
     }
     return (
