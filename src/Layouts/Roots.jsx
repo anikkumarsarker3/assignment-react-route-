@@ -4,6 +4,12 @@ import { Outlet } from 'react-router';
 import Footer from '../Components/Footer/Footer';
 
 const Roots = () => {
+    // useEffect(() => {
+    //     const DataKiAche = localStorage.getItem();
+    //     if (!DataKiAche) {
+    //         localStorage.getItem('softList', '[]');
+    //     }
+    // }, [])
     return (
         <div>
             <Navbar></Navbar>

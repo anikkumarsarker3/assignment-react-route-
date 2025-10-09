@@ -1,13 +1,13 @@
 import React from 'react';
 import DownIcon from '../assets/icon-downloads.png'
 import RatIcon from '../assets/icon-ratings.png'
-import { Link, useNavigate } from 'react-router';
+import { Link, useNavigate } from 'react-router-dom';
 
 const Cards = ({ item }) => {
+    const navigate = useNavigate()
     const handleCardClick = (id) => {
         navigate(`/card-details/${id}`);
     };
-    const navigate = useNavigate()
     const { id, image, title, size, ratingAvg } = item;
     return (
         <Link onClick={() => handleCardClick(id)}>

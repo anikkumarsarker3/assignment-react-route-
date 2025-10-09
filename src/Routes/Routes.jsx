@@ -1,5 +1,5 @@
 import React from 'react';
-import { createBrowserRouter } from "react-router";
+import { createBrowserRouter } from "react-router-dom";
 import Roots from '../Layouts/Roots';
 import Home from '../Pages/Home';
 import Error from '../Components/Error/Error';
@@ -13,28 +13,23 @@ import Installation from '../Pages/Installation';
 
 export const router = createBrowserRouter([
     {
-        path: "",
+        path: "/",
         Component: Roots,
         hydrateFallbackElement: <LoadingPage></LoadingPage>,
         errorElement: <Error></Error>,
         children: [
             {
-                path: '',
+                path: '/',
                 loader: () => fetch('/software.json'),
-
-                hydrateFallbackElement: <LoadingPage></LoadingPage>,
                 Component: Home
             },
             {
-                path: '/apps',
+                path: 'apps',
                 loader: () => fetch('/software.json'),
-
-                hydrateFallbackElement: <LoadingPage></LoadingPage>,
                 Component: Apps
             },
             {
                 path: 'installation',
-                hydrateFallbackElement: <LoadingPage></LoadingPage>,
                 Component: Installation
             },
             {

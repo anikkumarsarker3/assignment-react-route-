@@ -1,4 +1,14 @@
+if (!localStorage.getItem('softList')) {
+    localStorage.setItem('softList', JSON.stringify([]));
+}
+
 const getSoftware = () => {
+    let softList = JSON.parse(localStorage.getItem('softList'));
+    if (!softList) {
+        softList = [];
+        localStorage.setItem('softList', JSON.stringify(softList));
+    }
+
     const storeSoftware = localStorage.getItem('softList');
     if (storeSoftware) {
         const storeSoftwareData = JSON.parse(storeSoftware);

@@ -16,19 +16,17 @@ const CardDetails = () => {
     const handleInstallButton = () => {
         setFixed(true);
         toast('Installed app');
-        addSoftware(id)
+        addSoftware(String(id))
     }
 
     useEffect(() => {
-        const array = JSON.parse(localStorage.getItem('softList'));
-        if (array.includes(String(id)) || array.includes(Number(id))) {
+        const arr = JSON.parse(localStorage.getItem('softList'));
+        if (arr.includes(String(id))) {
             setFixed(true);
         } else {
             setFixed(false);
         }
     }, [id]);
-
-
 
     const [fixed, setFixed] = useState(false);
     const [softwareData, setSoftwareData] = useState([]);
@@ -39,7 +37,7 @@ const CardDetails = () => {
     }, [])
 
     const singleItem = softwareData.find(item => item.id === Number(id));
-
+    console.log(singleItem)
     return (
         <>
             <div>
