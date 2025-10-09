@@ -20,18 +20,18 @@ export const router = createBrowserRouter([
             {
                 path: '',
                 loader: () => fetch('/software.json'),
-                // errorElement: <Error></Error>,
+                hydrateFallbackElement: <LoadingPage></LoadingPage>,
                 Component: Home
             },
             {
                 path: '/apps',
                 loader: () => fetch('/software.json'),
                 hydrateFallbackElement: <LoadingPage></LoadingPage>,
-                // errorElement: <Error></Error>,
                 Component: Apps
             },
             {
                 path: '/installation',
+                hydrateFallbackElement: <LoadingPage></LoadingPage>,
                 Component: Installation
             },
             {
