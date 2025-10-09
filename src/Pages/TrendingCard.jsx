@@ -5,6 +5,7 @@ import { Link } from 'react-router';
 const TrendingCard = ({ softwareData }) => {
     // console.log(softwareData)
     return (
+        // {!softwareData.length ? () : singleItem ? () : ()}
         <div className='text-center bg-gray-100 py-10'>
             <h1 className='text-5xl font-semibold'>Trending Apps</h1>
             <p className='text-gray-400 my-2'>Explore All Trending Apps on the Market developed by us</p>
