@@ -1,16 +1,50 @@
-# React + Vite
+# live-link=> https://magical-trifle-4ded06.netlify.app/
+## Features
+```
+⚛️ React 19 with modern architecture
+⚡ Vite for fast development
+🎨 Tailwind CSS 4 for styling
+🔗 React Router DOM for routing
+📊 Recharts for charts
+🔔 React Toastify for notifications
+🎛️ Lucide Icons
+🌀 React Spinners for loaders
+```
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📁 Installation & Setup
 
-Currently, two official plugins are available:
+# 1️⃣ Clone the Repository
+```
+git clone https://github.com/anikkumarsarker3/assignment-react-route-.git
+```
+# 2️⃣ Navigate to the Project Directory
+```
+cd assignment-react-route-
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 3️⃣ Install Dependencies
+Make sure you have Node.js (v18+) installed.
+Install all required packages:
+```
+npm install
+```
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# 4️⃣ Running/Start Development Server
+```
+npm run dev
+```
+Vite will start a local server:
+```
+http://localhost:5173
+```
 
-## Expanding the ESLint configuration
+🏗️ Build for Production
+```
+npm run build
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✔️ Requirements
+
+Node.js 18+
+npm 9+
