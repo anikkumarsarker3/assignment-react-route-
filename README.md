@@ -1,4 +1,4 @@
-# live-link=> https://magical-trifle-4ded06.netlify.app/
+### live-link=> https://magical-trifle-4ded06.netlify.app/
 ## Features
 ```
 ⚛️ React 19 with modern architecture
@@ -13,16 +13,16 @@
 
 ## 📁 Installation & Setup
 
-# 1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 ```
 git clone https://github.com/anikkumarsarker3/assignment-react-route-.git
 ```
-# 2️⃣ Navigate to the Project Directory
+### 2️⃣ Navigate to the Project Directory
 ```
 cd assignment-react-route-
 ```
 
-# 3️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 Make sure you have Node.js (v18+) installed.
 Install all required packages:
 ```
@@ -30,7 +30,7 @@ npm install
 ```
 
 
-# 4️⃣ Running/Start Development Server
+### 4️⃣ Running/Start Development Server
 ```
 npm run dev
 ```
